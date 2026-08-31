@@ -43,3 +43,17 @@ MySQL Workbench, SQL (joins, aggregates, CASE WHEN, subqueries, HAVING)
 ## File
 See `Averys_portfolio_project.sql` for all 8 questions, queries, and
 findings.
+
+## Dashboard
+An accompanying 2-page Power BI dashboard visualizes the findings above,
+including monthly revenue trends, customer segmentation, return status by
+rental duration, store performance, and category-level inventory and
+revenue analysis.
+
+**Overview page:**
+![Dashboard Overview](Overview.png)
+
+**Category & Film Insights page:**
+![Category and Film Page](Category%20and%20Film.png)
+
+See `Averys_Rental_Analytics_Dashboard.pbix` for the full interactive file.
