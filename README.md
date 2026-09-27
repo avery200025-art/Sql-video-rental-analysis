@@ -58,7 +58,7 @@ See [`Averys_portfolio_project.sql`](Averys_portfolio_project.sql) for all 8 que
 A two-page interactive report built on a star schema.
  
 **Overview page:**
-![Dashboard Overview](Overview%20new.png)
+![Dashboard Overview](Overview.png)
  
 **Category & Title Performance page:**
 ![Category and Title Performance](Category_Title_Performance.png)
