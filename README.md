@@ -53,7 +53,7 @@ A two-page interactive report built on a star schema.
 ![Dashboard Overview](Overview.png)
 
 **Category & Title Performance page:**
-![Category and Title Page](Category%20and%20Film.png)
+![Category and Title Performance](Category_Title_Performance.png)
 
 See `Averys_Rental_Analytics_Dashboard.pbix` for the full interactive file.
 
