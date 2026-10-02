@@ -58,13 +58,13 @@ See [`Averys_portfolio_project.sql`](Averys_portfolio_project.sql) for all 8 que
 A three-page interactive report built on a star schema.
 
 **Overview page:**
-![Dashboard Overview](Overview.png)
+![Dashboard Overview](Overview%20new.png)
 
 **Category & Title Performance page:**
-![Category and Title Performance](Category_Title_Performance.png)
+![Category and Title Performance](Category%20_Title_Performance.PNG)
 
 **Customer Insights page:**
-![Customer Insights](Customer_Insights.png)
+![Customer Insights](Customer%20Insights.PNG)
 
 See [`Averys_Rental_Analytics_Dashboard.pbix`](Averys_Rental_Analytics_Dashboard.pbix) for the full interactive file.
 
